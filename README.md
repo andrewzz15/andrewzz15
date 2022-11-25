@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">Project Management Explorer & Social Media Technology Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrewzzi" alt="andrewzzi" /></a> </p>
-
+ 
 - 🤝 I’m looking for help with **Social Media & Management tasks**
 
 - 👨‍💻 All of my projects are available at [https://pillar.io/andrew.i](https://pillar.io/andrew.i)
